@@ -1,0 +1,10 @@
+body {
+    background-color: #eee;
+    overflow: scroll;
+}
+canvas {
+    background-color: #eee;
+    display: block;
+    margin: 0 auto;
+    position: fixed;
+}
